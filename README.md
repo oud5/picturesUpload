@@ -1,2 +1,2 @@
 # picturesUpload
-性感小图床
+图床
